@@ -14,7 +14,7 @@ export default function App() {
   return (
     <HelmetProvider>
       <Helmet>
-        <title>GenAI Interviews - AI-Powered Mock Interviews</title>
+        <title>Apex AI - AI-Powered Mock Interviews</title>
         <meta name="description" content="Get AI-powered interview preparation with real-world mock interviews. Elevate your career with GenAI Interviews." />
         <meta name="keywords" content="AI Interviews, Mock Interviews, AI Career, GenAI, Crackadmission" />
         <meta name="author" content="Crackadmission" />
