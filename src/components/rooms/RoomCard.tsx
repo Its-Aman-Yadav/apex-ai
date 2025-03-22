@@ -24,7 +24,7 @@ export default function RoomCard({ room, onDelete }: RoomCardProps) {
 
   const handleShare = () => {
     // Force the production URL in production, otherwise use the current origin
-    const productionUrl = "https://interview-genai.vercel.app";
+    const productionUrl = "https://apex-ai-jade.vercel.app/";
     const shareUrl = `${
       process.env.NODE_ENV === "production" 
         ? productionUrl 
